@@ -1,0 +1,1 @@
+pip install flask pytesseract opencv-python pdf2image cryptography
